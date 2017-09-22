@@ -1,0 +1,4 @@
+#Sun Aug 27 01:22:15 ICT 2017
+base.0=C\:\\Users\\A6654\\Desktop\\hack01_1\\android-build\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\A6654\\Desktop\\hack01_1\\android-build\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

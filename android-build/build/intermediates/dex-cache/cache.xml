@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\A6654\Desktop\hack01_1\android-build\libs\QtMultimedia-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5cda321ce9c2eb10ab604a39a681e4a3ba28d61f">
+        <dex dex="C:\Users\A6654\Desktop\hack01_1\android-build\build\intermediates\pre-dexed\debug\QtMultimedia-bundled_6daadeb17f56ed48b42ad9661382c166f7359a40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\A6654\Desktop\hack01_1\android-build\libs\QtAndroidBearer-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a36cc13ec65129faf2108099c4656f159c013319">
+        <dex dex="C:\Users\A6654\Desktop\hack01_1\android-build\build\intermediates\pre-dexed\debug\QtAndroidBearer-bundled_c371f262648e8d751ad2a216455ce1a2a2595782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\A6654\Desktop\hack01_1\android-build\libs\QtAndroid-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="488ad8d72ccd1f85e261a5a74717918cb86f7d65">
+        <dex dex="C:\Users\A6654\Desktop\hack01_1\android-build\build\intermediates\pre-dexed\debug\QtAndroid-bundled_9bb2ac32a1387db4c6c0baf52b93ee894004500a.jar" />
+    </item>
+
+</items>
